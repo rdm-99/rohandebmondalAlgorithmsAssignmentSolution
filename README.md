@@ -1,5 +1,10 @@
 # rohandebmondalAlgorithmsAssignmentSolution
 
+Solution java files are uploaded here in this repository for the below problems
+
+
+
+
 PART 1
 Marks: 10 (2 marks each )
 Find the time complexity of the below functions in Θ form. Write NA if the function does not
